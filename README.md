@@ -11,7 +11,7 @@
 •	Understand the basic structure of an HTML document (DOCTYPE, HTML, head, and body).
 ### ⏩ Day 4
 •	Write your first HTML document.
-•	Introduce basic HTML tags like <h1>, <p>, <a>, <img>, and <ul>.
+•	Introduce basic HTML tags like h1, p a, img, and ul.
 ### ⏩ Day 5
 •	Explore metadata tags in the <head> section (e.g., <meta>, <title>).
 ### ⏩ Day 6
@@ -22,7 +22,7 @@
 •	Work on a small HTML project to solidify your understanding.
 •	Implement a webpage with various elements learned in the past days.
 ### ⏩ Day 9
-Understand what CSS is and its role in web development.
+• Understand what CSS is and its role in web development.
 ### ⏩ Day 10
 •	Learn about the different ways to apply CSS: inline, internal, and external.
 ### ⏩ Day 11
@@ -213,7 +213,7 @@ Explore ES6+ features like let/const, template literals.
 ## Month: [December]
 ### ⏩ Day 1
 •	Create a new project folder and set up your HTML file.
-•	Design a simple navigation bar using HTML <nav> and <ul>.
+•	Design a simple navigation bar using HTML nav and ul.
 ### ⏩ Day 2
 •	Design the header section of the home page.
 •	Include a prominent heading, a subheading, and a call-to-action button.
