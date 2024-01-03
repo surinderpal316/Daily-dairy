@@ -181,7 +181,7 @@ Explore ES6+ features like let/const, template literals.
 ### ⏩ Day 10
 •	Create a simple registration form with fields like name, email, and password.
 •	Implement PHP validation for user registration.
-## ⏩ Day 11
+### ⏩ Day 11
 •	Design a form for creating new events.
 •	Implement PHP validation for event creation
 ### ⏩ Day 12
