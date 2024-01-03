@@ -1,7 +1,7 @@
-#Daily Dairy of Full stack web development
-#6 Months Training Daily Diary - [Surinderpal Singh -Varinder Singh]
-##Month: [August]
-###⏩ Day 1
+# Daily Dairy of Full stack web development
+# 6 Months Training Daily Diary - [Surinderpal Singh -Varinder Singh]
+## Month: [August]
+### ⏩ Day 1
 •	Tutorial of Webpage in w3school.
 •	Hands on html.
 ###⏩ Day 2
